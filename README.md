@@ -1,6 +1,6 @@
 # SkillsTree
 
-Example of data organisation of the Pole Emploie ROM. Use the Pole Emploie's API to retrieve data and then display it in different ways
+Example of data organisation of the Pole Emploi ROM. Use the Pole Emploie's API to retrieve data and then display it in different ways
 
 ## Usage
 
